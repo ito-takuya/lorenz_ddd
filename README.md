@@ -19,7 +19,7 @@ $$ \dot{y} = f_y \big( x(t),y(t),z(t) \big)$$
 $$ \dot{z} = f_z \big( x(t),y(t),z(t) \big)$$
 
 The tutorials included are:
-1. Kernel regression (Notebook2) -- see Brunton et al. (2015) *PNAS*
+1. Polynomial regression (Notebook2) -- see Brunton et al. (2015) *PNAS*
 2. Multilayer perceptrons (Notebook3)
 3. Small transformers (Notebook4)
 
