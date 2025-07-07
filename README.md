@@ -23,3 +23,10 @@ The tutorials included are:
 2. Multilayer perceptrons (Notebook3)
 3. Small transformers (Notebook4)
 
+# Suggested installation/set-up
+1. Clone repostiory: `git clone https://github.com/ito-takuya/lorenz_ddd.git`
+2. Create a python environment: `python -m venv lorenz_ddd`
+3. Activate environment: `source lorenz_ddd/bin/activate`
+4. Install requirements/dependencies: `pip install -r requirements.txt`
+5. Install tutorial package: `pip install -e .`
+
