@@ -30,3 +30,6 @@ The tutorials included are:
 4. Install requirements/dependencies: `pip install -r requirements.txt`
 5. Install tutorial package: `pip install -e .`
 
+# Alternative: Google Colab
+[https://drive.google.com/drive/folders/1dBPhnAHIV7ReFFKmyhG6Yc8p3pLTi2la](https://drive.google.com/drive/folders/1dBPhnAHIV7ReFFKmyhG6Yc8p3pLTi2la)
+
